@@ -1,0 +1,32 @@
+/* div {
+    background-image: url(cc_logo.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 40%;
+} */
+
+#logo {
+    height: 600px;
+    background-image: url(cc_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table {
+    align: center;
+    height: 300px;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+th {
+    text-align: center;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    width: 33%;
+}
+
+p {
+    color: black;
+    font-size: 400%;
+}
