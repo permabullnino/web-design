@@ -1,0 +1,41 @@
+#Return {
+    font-weight: bold;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#user1 {
+    height: 500px;
+    background-image: url(cc_profpic.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table {
+    align: center;
+    height: 100px;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+#tb1 {
+    text-align: center;
+    border-bottom: 5px solid darkgrey;
+    border-top: 5px solid darkgrey;
+    border-radius: 5px;
+    width: 33%;
+}
+
+#user1detail {
+    color: black;
+    font-size: 300%;
+}
+
+#ceo {
+    color: black;
+    font-size: 400%;
+    text-align: center;
+    font-weight: bold;
+}
