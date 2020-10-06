@@ -1,5 +1,7 @@
-* {
-    box-sizing: border-box;
+#Return {
+    font-weight: bold;
+    text-align: left;
+    font-size: 200%;
 }
 
 label {

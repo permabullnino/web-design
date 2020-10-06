@@ -26,22 +26,3 @@ p {
     text-align: center;
     font-weight: bold;
 }
-
-.container {
-    column-count: 2;
-    column-rule-style: solid;
-    column-rule-color: black;
-}
-
-.left {
-    height: 100px;  
-}
-
-.right {
-    height: 100px;
-}
-
-/* para class is included bc for some reason left and right boxes dont match up */
-.para {
-    padding-top: 50px;
-}
